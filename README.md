@@ -30,5 +30,6 @@ Quality Assurance Engineer @ Cognizant Technology Solutions
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Ashok1205?theme=dark&font=baloo&extension=null)
 
-![Ashok1205's Github activity graph](https://github.com/user-attachments/assets/270ed57a-90c4-4e05-b63d-bee8dd19592b)
+![Ashok1205's Github activity graph](https://github.com/user-attachments/assets/c8733d88-73bd-42cc-89f7-2cbda21db31e)
+
 
