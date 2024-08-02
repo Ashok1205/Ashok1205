@@ -30,4 +30,5 @@ Quality Assurance Engineer @ Cognizant Technology Solutions
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Ashok1205?theme=dark&font=baloo&extension=null)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashok1205's Github activity graph](https://github.com/user-attachments/assets/270ed57a-90c4-4e05-b63d-bee8dd19592b)
+
