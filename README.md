@@ -2,7 +2,7 @@
 
 Quality Assurance Engineer @ Cognizant Technology Solutions
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://ashokcruzz.000webhostapp.com/)                                                 
+- 🔭 Here's my [portfolio](https://preeminent-lokum-51c72a.netlify.app/)                                                 
 - 🌱 I’m currently working as an QA tester at Cognizant Technology Solutions
 - 👯 I’m proficient in using Selenium WebDriver with Java along with TestNG and Cucumber Framework
 - 🤔 Strong Background in Manual Testing and Sql
